@@ -44,5 +44,35 @@
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="530dp" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Open Page" />
+
+    <Button
+        android:id="@+id/buttonPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="buttonPlay" />
+
+    <Button
+        android:id="@+id/buttonStop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="buttonStop" />
+
+    <Button
+        android:id="@+id/buttonRawPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="buttonRawPlay" />
+
+    <Button
+        android:id="@+id/buttonRawStop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="buttonRawStop" />
+
 
 </androidx.appcompat.widget.LinearLayoutCompat>
